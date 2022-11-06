@@ -46,7 +46,7 @@ In my spare time I also like to work on fun Unity Projects, most of which are mo
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattGet&count_private=true&hide=ShaderLab&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
 </a>
 <a href="https://github.com/MattGet/MattGet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MattGet&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Matt's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MattGet&count_private=true&show_icons=true&line_height=33&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Matt's GitHub Stats" />
 </a>
 
 <a href="https://github.com/MattGet/BrickPaint">
