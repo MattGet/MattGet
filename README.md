@@ -49,13 +49,5 @@ In my spare time I also like to work on fun Unity Projects, most of which are mo
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MattGet&count_private=true&&show_icons=true&line_height=33&&theme=github_dark" alt="Matt's GitHub Stats" />
 </a>
 
-<a href="https://github.com/MattGet/BrickPaint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MattGet&repo=BrickPaint&theme=github_dark" />
-</a>
-
-
-<a href="https://github.com/MattGet/Unity-Development-Workshop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MattGet&repo=Unity-Development-Workshop&theme=github_dark" />
-</a>    
 
 
