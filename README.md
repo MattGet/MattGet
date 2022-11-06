@@ -43,19 +43,19 @@ In my spare time I also like to work on fun Unity Projects, most of which are mo
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/MattGet/MattGet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattGet&count_private=true&hide=ShaderLab&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattGet&count_private=true&hide=ShaderLab&langs_count=4&theme=github_dark" />
 </a>
 <a href="https://github.com/MattGet/MattGet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MattGet&count_private=true&show_icons=true&line_height=33&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Matt's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MattGet&count_private=true&&show_icons=true&line_height=33&&theme=github_dark" alt="Matt's GitHub Stats" />
 </a>
 
 <a href="https://github.com/MattGet/BrickPaint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MattGet&repo=BrickPaint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MattGet&repo=BrickPaint&theme=github_dark" />
 </a>
 
 
 <a href="https://github.com/MattGet/Unity-Development-Workshop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MattGet&repo=Unity-Development-Workshop&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MattGet&repo=Unity-Development-Workshop&theme=github_dark" />
 </a>    
 
 
