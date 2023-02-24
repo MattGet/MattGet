@@ -30,7 +30,7 @@ My name is Matthew Dembny, I'm a Computer Science Student at Valpariaso Unviersi
 ## &#x270d; Projects & Hobbies
 
 In my classes I have worked on a few projects including my version of a [JavaFX Drawing App](https://github.com/MattGet/BrickPaint) inspired by MS Paint  
-and a command line [Tick Tack Toe Game](https://github.com/MattGet/CSC121-TicTacToe) written in C++ that features a diffiult (but not impossible) AI opponent
+and a command line [Tic Tac Toe Game](https://github.com/MattGet/CSC121-TicTacToe) written in C++ that features a diffiult (but not impossible) AI opponent
 
 You can also find me contributing to [Valpo Robotics](https://github.com/ValpoRoboticsTeam) (private repo) or the [Valpo ACM Project](https://github.com/valpo-acm/f22-game/tree/matts-testing-branch)
 
