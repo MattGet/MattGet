@@ -46,14 +46,5 @@ In my spare time I also like to work on fun Unity Projects, most of which are mo
 - [Modding Profile on Mod.io](https://mod.io/g/fireworksmania/u/panini007)
 <!-- Repo-List:END -->
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/MattGet/MattGet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattGet&count_private=true&hide=ShaderLab,HLSL,&langs_count=4&theme=github_dark" />
-</a>
-<a href="https://github.com/MattGet/MattGet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MattGet&&&include_all_commits=true&&rank_icon=github&&count_private=true&&show_icons=true&line_height=33&&theme=github_dark" alt="Matt's GitHub Stats" />
-</a>
-
 
 
