@@ -5,7 +5,7 @@
 My name is Matthew Dembny, I'm a Computer Science Student at Valpariaso Unviersity and aspiring Software Engineer.<br>
 You can find me on LinkedIn:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Matthew_Dembny-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthew-dembny-54221421a/)](https://www.linkedin.com/in/matthew-dembny-54221421a/)
+[![Linkedin Badge](https://img.shields.io/badge/-Matthew_Dembny-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthew-dembny/)](https://www.linkedin.com/in/matthew-dembny/)
 
 <!-- Source for Icons: https://github.com/Ileriayo/markdown-badges -->
 ## 🔧 Technologies & Tools
