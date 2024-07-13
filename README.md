@@ -2,7 +2,7 @@
 
 # Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Matthew Dembny, I'm a Computer Science Student at Valpariaso Unviersity and aspiring Software Engineer.<br>
+My name is Matthew Dembny, I'm a Software Engineer who loves to work on cutting-edge agile development projects.<br>
 You can find me on LinkedIn:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matthew_Dembny-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthew-dembny/)](https://www.linkedin.com/in/matthew-dembny/)
