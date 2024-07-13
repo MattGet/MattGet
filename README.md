@@ -35,7 +35,7 @@ You can find me on LinkedIn:
 
 ## &#x270d; Projects & Hobbies
 
-In my classes I have worked on a few projects including my version of a [JavaFX Drawing App](https://github.com/MattGet/BrickPaint) inspired by MS Paint  
+In my classes I have worked on a few projects including my version of a [JavaFX Drawing App](https://github.com/MattGet/BrickPaint) inspired by MS Paint, a web-based [Citation Engine](https://github.com/MattGet/Svelte-Citation) built with Sveltekit and a NoSQL backend,
 and a command line [Tic Tac Toe Game](https://github.com/MattGet/CSC121-TicTacToe) written in C++ that features a diffiult (but not impossible) AI opponent
 
 You can also find me contributing to [Valpo Robotics](https://github.com/ValpoRoboticsTeam) (private repo) or the [Valpo ACM Project](https://github.com/valpo-acm/f22-game/tree/matts-testing-branch)
